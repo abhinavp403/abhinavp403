@@ -28,4 +28,5 @@ As a side hustle, I'm looking forward to hone my skills each day and focus on im
 Besides my passion for technology, I'm an avid sports lover and follow football, tennis, basketball and cricket. I've also delved into the philosphical world and I love writing ideas about life, society, individualism. I'm also looking to explore the financial world.
 
 Portfolio App- https://play.google.com/store/apps/details?id=com.dev.abhinav.portfolio
+
 Category Quotes- https://play.google.com/store/apps/details?id=com.dev.abhinav.quotes
