@@ -23,10 +23,12 @@ My fields of interest include Mobile Development in Android, Machine Learning, S
 The coding languages I am most comfortable in are Java, Kotlin, Python, JavaScript.
 I've worked on projects ranging from making Android apps, writing scirpts on Machine Learning algorithms, web programming, querying database tables, establishing client/server networks, etc.
 
-As a side hustle, I'm looking forward to hone my skills each day and focus on improving my core Android programming skills. I've worked on apps through internships, in hackathons, class projects, and self-made projects. So far I've published 2 apps, feel free to check them out! (Link provided below)
+As a side hustle (hobby), I'm looking forward to hone my skills each day and focus on improving my core Android programming skills. I've worked on apps through internships, in hackathons, class projects, and self-made projects. So far I've published 3 apps, feel free to check them out! (Link provided below)
 
 Besides my passion for technology, I'm an avid sports lover and follow football, tennis, basketball and cricket. I've also delved into the philosphical world and I love writing ideas about life, society, individualism. I'm also looking to explore the financial world.
 
 Portfolio App- https://play.google.com/store/apps/details?id=com.dev.abhinav.portfolio
 
 Category Quotes- https://play.google.com/store/apps/details?id=com.dev.abhinav.quotes
+
+Smart Music Player- https://play.google.com/store/apps/details?id=com.dev.abhinav.smartmusicplayer
