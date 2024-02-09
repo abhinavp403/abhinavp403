@@ -23,7 +23,7 @@ My fields of interest include Mobile Development in Android, Machine Learning, S
 The coding languages I am proficient in include Java, Kotlin, Python, JavaScript.
 I've worked on projects ranging from making Android apps, writing scirpts on Machine Learning algorithms, web programming, querying database tables, establishing client/server networks, etc.
 
-In addition to my full-time role, I'm always looking for different ways to hone my skills each day in Android programming. I've worked on apps through internships, in hackathons, class projects, and self-made projects. So far I've published 7 apps, feel free to check them out! (Links provided below)
+In addition to my full-time role, I'm always looking for different ways to hone my skills each day in Android programming. I've worked on apps through internships, in hackathons, class projects, and self-made projects. So far I've published 8 apps, feel free to check them out! (Links provided below)
 
 Besides my passion for technology, I'm an avid sports lover and follow football, tennis, basketball and cricket. I love watching movies and tv shows and listening to music in my free time. I've also delved into the philosphical world and love writing ideas about life, society, individualism. The financial world of stocks and consumer assets is a great interest.
 
@@ -40,3 +40,5 @@ Movie Rater- https://play.google.com/store/apps/details?id=com.dev.abhinav.movie
 Tennis Stats-ATP & WTA- https://play.google.com/store/apps/details?id=com.dev.abhinav.tennisstats
 
 Currency Converter- https://play.google.com/store/apps/details?id=com.dev.abhinav.currencyconverter
+
+Learn Your Vocab- https://play.google.com/store/apps/details?id=dev.abhinav.learnyourvocab
